@@ -1,0 +1,7 @@
+<library path="lib/libLineDetector">
+    <class name="LineDetector" type="LineDetector" base_class_type="nodelet::Nodelet">
+        <description>
+            Line detector image processing nodelet.
+        </description>
+    </class>
+</library>

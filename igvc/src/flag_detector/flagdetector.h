@@ -19,11 +19,11 @@
 #include <sensor_msgs/image_encodings.h>
 #include <sensor_msgs/image_encodings.h>
 #include <tf/transform_listener.h>
-#include <opencv2/core/core.hpp>
-#include <opencv2/highgui/highgui.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv2/core.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/imgproc.hpp>
 #include <opencv2/opencv.hpp>
-#include <opencv2/video/video.hpp>
+#include <opencv2/video.hpp>
 #include <vector>
 
 using namespace std;
